@@ -1,6 +1,6 @@
 /*
  * File: 2-get_students_by_loc.js
- * Auth: Ukonu Divine Chisom
+ * Auth: Yovo Koffi Vianney
  */
 
 /**
