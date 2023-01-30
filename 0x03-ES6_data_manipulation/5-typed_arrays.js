@@ -1,6 +1,6 @@
 /*
  * File: 5-typed_arrays.js
- * Auth: Ukonu Divine Chisom
+ * Auth: Yovo Koffi Vianney
  */
 
 /**
