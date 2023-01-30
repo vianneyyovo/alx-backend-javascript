@@ -1,6 +1,6 @@
 /*
  * File: 6-set.js
- * Auth: Ukonu Divine Chisom
+ * Auth: Yovo Koffi Vianney
  */
 
 /**
