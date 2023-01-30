@@ -1,6 +1,6 @@
 /*
  * File: 0-get_list_students.js
- * Auth: Ukonu Divine Chisom
+ * Auth: Yovo Koffi Vianney
  */
 
 /**
