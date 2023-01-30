@@ -1,6 +1,7 @@
 /*
  * File: 7-has_array_values.js
  * Auth: Yovo Koffi Vianney
+ */
 
 /**
  * hasValuesFromArray - Checks if each element in a set is present in an array.
